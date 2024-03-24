@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Metodos Simples_Raiz Quadrada\bin\Debug\Metodos Simples_Raiz Quadrada.exe.config
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Metodos Simples_Raiz Quadrada\bin\Debug\Metodos Simples_Raiz Quadrada.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Metodos Simples_Raiz Quadrada\bin\Debug\Metodos Simples_Raiz Quadrada.pdb
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Metodos Simples_Raiz Quadrada\obj\Debug\Metodos Simples_Raiz Quadrada.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Metodos Simples_Raiz Quadrada\obj\Debug\Metodos Simples_Raiz Quadrada.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Metodos Simples_Raiz Quadrada\obj\Debug\Metodos Simples_Raiz Quadrada.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Metodos Simples_Raiz Quadrada\obj\Debug\Metodos Simples_Raiz Quadrada.pdb

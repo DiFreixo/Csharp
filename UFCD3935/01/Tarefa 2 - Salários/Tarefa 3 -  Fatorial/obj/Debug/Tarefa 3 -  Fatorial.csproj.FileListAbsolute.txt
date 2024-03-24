@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\01\Tarefa 2 - Salários\Tarefa 3 -  Fatorial\bin\Debug\Tarefa 3 -  Fatorial.exe.config
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\01\Tarefa 2 - Salários\Tarefa 3 -  Fatorial\bin\Debug\Tarefa 3 -  Fatorial.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\01\Tarefa 2 - Salários\Tarefa 3 -  Fatorial\bin\Debug\Tarefa 3 -  Fatorial.pdb
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\01\Tarefa 2 - Salários\Tarefa 3 -  Fatorial\obj\Debug\Tarefa 3 -  Fatorial.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\01\Tarefa 2 - Salários\Tarefa 3 -  Fatorial\obj\Debug\Tarefa 3 -  Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\01\Tarefa 2 - Salários\Tarefa 3 -  Fatorial\obj\Debug\Tarefa 3 -  Fatorial.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\01\Tarefa 2 - Salários\Tarefa 3 -  Fatorial\obj\Debug\Tarefa 3 -  Fatorial.pdb

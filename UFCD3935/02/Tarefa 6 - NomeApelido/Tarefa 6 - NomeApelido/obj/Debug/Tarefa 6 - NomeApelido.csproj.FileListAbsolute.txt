@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\02\Tarefa 6 - NomeApelido\Tarefa 6 - NomeApelido\obj\Debug\Tarefa 6 - NomeApelido.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\02\Tarefa 6 - NomeApelido\Tarefa 6 - NomeApelido\obj\Debug\Tarefa 6 - NomeApelido.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\02\Tarefa 6 - NomeApelido\Tarefa 6 - NomeApelido\bin\Debug\Tarefa 6 - NomeApelido.exe.config
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\02\Tarefa 6 - NomeApelido\Tarefa 6 - NomeApelido\bin\Debug\Tarefa 6 - NomeApelido.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\02\Tarefa 6 - NomeApelido\Tarefa 6 - NomeApelido\bin\Debug\Tarefa 6 - NomeApelido.pdb
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\02\Tarefa 6 - NomeApelido\Tarefa 6 - NomeApelido\obj\Debug\Tarefa 6 - NomeApelido.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\02\Tarefa 6 - NomeApelido\Tarefa 6 - NomeApelido\obj\Debug\Tarefa 6 - NomeApelido.pdb

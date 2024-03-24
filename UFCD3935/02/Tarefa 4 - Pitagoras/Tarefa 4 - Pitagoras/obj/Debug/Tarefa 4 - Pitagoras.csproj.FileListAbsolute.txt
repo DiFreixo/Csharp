@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\02\Tarefa 4 - Pitagoras\Tarefa 4 - Pitagoras\bin\Debug\Tarefa 4 - Pitagoras.exe.config
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\02\Tarefa 4 - Pitagoras\Tarefa 4 - Pitagoras\bin\Debug\Tarefa 4 - Pitagoras.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\02\Tarefa 4 - Pitagoras\Tarefa 4 - Pitagoras\bin\Debug\Tarefa 4 - Pitagoras.pdb
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\02\Tarefa 4 - Pitagoras\Tarefa 4 - Pitagoras\obj\Debug\Tarefa 4 - Pitagoras.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\02\Tarefa 4 - Pitagoras\Tarefa 4 - Pitagoras\obj\Debug\Tarefa 4 - Pitagoras.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\02\Tarefa 4 - Pitagoras\Tarefa 4 - Pitagoras\obj\Debug\Tarefa 4 - Pitagoras.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\02\Tarefa 4 - Pitagoras\Tarefa 4 - Pitagoras\obj\Debug\Tarefa 4 - Pitagoras.pdb

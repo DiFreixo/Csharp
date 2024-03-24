@@ -1,0 +1,10 @@
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex2_FICHEIROS\obj\Debug\Ex2_FICHEIROS.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex2_FICHEIROS\obj\Debug\Ex2_FICHEIROS.Form1.resources
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex2_FICHEIROS\obj\Debug\Ex2_FICHEIROS.Properties.Resources.resources
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex2_FICHEIROS\obj\Debug\Ex2_FICHEIROS.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex2_FICHEIROS\obj\Debug\Ex2_FICHEIROS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex2_FICHEIROS\bin\Debug\Ex2_FICHEIROS.exe.config
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex2_FICHEIROS\bin\Debug\Ex2_FICHEIROS.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex2_FICHEIROS\bin\Debug\Ex2_FICHEIROS.pdb
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex2_FICHEIROS\obj\Debug\Ex2_FICHEIROS.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex2_FICHEIROS\obj\Debug\Ex2_FICHEIROS.pdb

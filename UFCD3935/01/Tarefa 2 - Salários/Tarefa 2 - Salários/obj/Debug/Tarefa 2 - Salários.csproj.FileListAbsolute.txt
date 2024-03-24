@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\01\Tarefa 2 - Salários\Tarefa 2 - Salários\bin\Debug\Tarefa 2 - Salários.exe.config
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\01\Tarefa 2 - Salários\Tarefa 2 - Salários\bin\Debug\Tarefa 2 - Salários.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\01\Tarefa 2 - Salários\Tarefa 2 - Salários\bin\Debug\Tarefa 2 - Salários.pdb
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\01\Tarefa 2 - Salários\Tarefa 2 - Salários\obj\Debug\Tarefa 2 - Salários.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\01\Tarefa 2 - Salários\Tarefa 2 - Salários\obj\Debug\Tarefa 2 - Salários.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\01\Tarefa 2 - Salários\Tarefa 2 - Salários\obj\Debug\Tarefa 2 - Salários.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\01\Tarefa 2 - Salários\Tarefa 2 - Salários\obj\Debug\Tarefa 2 - Salários.pdb

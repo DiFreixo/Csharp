@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\ex.7_Ler Telefone\obj\Debug\ex.7_Ler Telefone.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\ex.7_Ler Telefone\obj\Debug\ex.7_Ler Telefone.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\ex.7_Ler Telefone\bin\Debug\ex.7_Ler Telefone.exe.config
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\ex.7_Ler Telefone\bin\Debug\ex.7_Ler Telefone.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\ex.7_Ler Telefone\bin\Debug\ex.7_Ler Telefone.pdb
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\ex.7_Ler Telefone\obj\Debug\ex.7_Ler Telefone.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\ex.7_Ler Telefone\obj\Debug\ex.7_Ler Telefone.pdb

@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Tarefa 10 - Classe Área\obj\Debug\Tarefa 10 - Classe Area.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Tarefa 10 - Classe Área\obj\Debug\Tarefa 10 - Classe Area.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Tarefa 10 - Classe Área\bin\Debug\Tarefa 10 - Classe Área.exe.config
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Tarefa 10 - Classe Área\bin\Debug\Tarefa 10 - Classe Área.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Tarefa 10 - Classe Área\bin\Debug\Tarefa 10 - Classe Área.pdb
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Tarefa 10 - Classe Área\obj\Debug\Tarefa 10 - Classe Área.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Tarefa 10 - Classe Área\obj\Debug\Tarefa 10 - Classe Área.pdb

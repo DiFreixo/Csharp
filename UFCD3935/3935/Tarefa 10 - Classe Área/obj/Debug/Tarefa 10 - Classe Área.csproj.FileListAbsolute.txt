@@ -1,0 +1,2 @@
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Tarefa 10 - Classe Área\obj\Debug\Tarefa 10 - Classe Área.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Tarefa 10 - Classe Área\obj\Debug\Tarefa 10 - Classe Área.csproj.CoreCompileInputs.cache

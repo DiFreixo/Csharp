@@ -1,0 +1,10 @@
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex4_FORMATOS\bin\Debug\Ex4_FORMATOS.exe.config
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex4_FORMATOS\bin\Debug\Ex4_FORMATOS.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex4_FORMATOS\bin\Debug\Ex4_FORMATOS.pdb
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex4_FORMATOS\obj\Debug\Ex4_FORMATOS.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex4_FORMATOS\obj\Debug\Ex4_FORMATOS.Form1.resources
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex4_FORMATOS\obj\Debug\Ex4_FORMATOS.Properties.Resources.resources
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex4_FORMATOS\obj\Debug\Ex4_FORMATOS.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex4_FORMATOS\obj\Debug\Ex4_FORMATOS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex4_FORMATOS\obj\Debug\Ex4_FORMATOS.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex4_FORMATOS\obj\Debug\Ex4_FORMATOS.pdb

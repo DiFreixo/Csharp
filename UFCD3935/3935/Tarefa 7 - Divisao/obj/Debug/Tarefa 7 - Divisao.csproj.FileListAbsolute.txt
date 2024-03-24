@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Tarefa 7 - Divisao\bin\Debug\Tarefa 7 - Divisao.exe.config
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Tarefa 7 - Divisao\bin\Debug\Tarefa 7 - Divisao.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Tarefa 7 - Divisao\bin\Debug\Tarefa 7 - Divisao.pdb
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Tarefa 7 - Divisao\obj\Debug\Tarefa 7 - Divisao.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Tarefa 7 - Divisao\obj\Debug\Tarefa 7 - Divisao.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Tarefa 7 - Divisao\obj\Debug\Tarefa 7 - Divisao.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Tarefa 7 - Divisao\obj\Debug\Tarefa 7 - Divisao.pdb

@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Metodos Simples_Nomes\bin\Debug\Metodos Simples_Nomes.exe.config
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Metodos Simples_Nomes\bin\Debug\Metodos Simples_Nomes.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Metodos Simples_Nomes\bin\Debug\Metodos Simples_Nomes.pdb
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Metodos Simples_Nomes\obj\Debug\Metodos Simples_Nomes.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Metodos Simples_Nomes\obj\Debug\Metodos Simples_Nomes.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Metodos Simples_Nomes\obj\Debug\Metodos Simples_Nomes.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Metodos Simples_Nomes\obj\Debug\Metodos Simples_Nomes.pdb

@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Metodos Simples_Primeira Letra Nome\bin\Debug\Metodos Simples_Primeira Letra Nome.exe.config
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Metodos Simples_Primeira Letra Nome\bin\Debug\Metodos Simples_Primeira Letra Nome.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Metodos Simples_Primeira Letra Nome\bin\Debug\Metodos Simples_Primeira Letra Nome.pdb
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Metodos Simples_Primeira Letra Nome\obj\Debug\Metodos Simples_Primeira Letra Nome.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Metodos Simples_Primeira Letra Nome\obj\Debug\Metodos Simples_Primeira Letra Nome.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Metodos Simples_Primeira Letra Nome\obj\Debug\Metodos Simples_Primeira Letra Nome.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\Metodos Simples_Primeira Letra Nome\obj\Debug\Metodos Simples_Primeira Letra Nome.pdb

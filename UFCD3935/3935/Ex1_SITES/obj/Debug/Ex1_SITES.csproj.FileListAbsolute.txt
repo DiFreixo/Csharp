@@ -1,0 +1,10 @@
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex1_SITES\bin\Debug\Ex1_SITES.exe.config
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex1_SITES\bin\Debug\Ex1_SITES.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex1_SITES\bin\Debug\Ex1_SITES.pdb
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex1_SITES\obj\Debug\Ex1_SITES.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex1_SITES\obj\Debug\Ex1_SITES.Form1.resources
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex1_SITES\obj\Debug\Ex1_SITES.Properties.Resources.resources
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex1_SITES\obj\Debug\Ex1_SITES.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex1_SITES\obj\Debug\Ex1_SITES.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex1_SITES\obj\Debug\Ex1_SITES.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex1_SITES\obj\Debug\Ex1_SITES.pdb

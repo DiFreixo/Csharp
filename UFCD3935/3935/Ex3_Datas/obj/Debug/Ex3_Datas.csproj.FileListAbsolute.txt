@@ -1,0 +1,20 @@
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex3_Datas\bin\Debug\Ex3_Datas.exe.config
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex3_Datas\bin\Debug\Ex3_Datas.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex3_Datas\bin\Debug\Ex3_Datas.pdb
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex3_Datas\obj\Debug\Ex3_Datas.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex3_Datas\obj\Debug\Ex3_Datas.Form1.resources
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex3_Datas\obj\Debug\Ex3_Datas.Properties.Resources.resources
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex3_Datas\obj\Debug\Ex3_Datas.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex3_Datas\obj\Debug\Ex3_Datas.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex3_Datas\obj\Debug\Ex3_Datas.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\Ex3_Datas\obj\Debug\Ex3_Datas.pdb
+C:\DOCUMENTOS\Trabalhos\Csharp\3935\3935\Ex3_Datas\bin\Debug\Ex3_Datas.exe.config
+C:\DOCUMENTOS\Trabalhos\Csharp\3935\3935\Ex3_Datas\bin\Debug\Ex3_Datas.exe
+C:\DOCUMENTOS\Trabalhos\Csharp\3935\3935\Ex3_Datas\bin\Debug\Ex3_Datas.pdb
+C:\DOCUMENTOS\Trabalhos\Csharp\3935\3935\Ex3_Datas\obj\Debug\Ex3_Datas.csproj.AssemblyReference.cache
+C:\DOCUMENTOS\Trabalhos\Csharp\3935\3935\Ex3_Datas\obj\Debug\Ex3_Datas.Form1.resources
+C:\DOCUMENTOS\Trabalhos\Csharp\3935\3935\Ex3_Datas\obj\Debug\Ex3_Datas.Properties.Resources.resources
+C:\DOCUMENTOS\Trabalhos\Csharp\3935\3935\Ex3_Datas\obj\Debug\Ex3_Datas.csproj.GenerateResource.cache
+C:\DOCUMENTOS\Trabalhos\Csharp\3935\3935\Ex3_Datas\obj\Debug\Ex3_Datas.csproj.CoreCompileInputs.cache
+C:\DOCUMENTOS\Trabalhos\Csharp\3935\3935\Ex3_Datas\obj\Debug\Ex3_Datas.exe
+C:\DOCUMENTOS\Trabalhos\Csharp\3935\3935\Ex3_Datas\obj\Debug\Ex3_Datas.pdb

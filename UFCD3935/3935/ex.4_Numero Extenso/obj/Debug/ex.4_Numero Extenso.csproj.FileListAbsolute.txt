@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\ex.4_Numero Extenso\bin\Debug\ex.4_Numero Extenso.exe.config
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\ex.4_Numero Extenso\bin\Debug\ex.4_Numero Extenso.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\ex.4_Numero Extenso\bin\Debug\ex.4_Numero Extenso.pdb
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\ex.4_Numero Extenso\obj\Debug\ex.4_Numero Extenso.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\ex.4_Numero Extenso\obj\Debug\ex.4_Numero Extenso.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\ex.4_Numero Extenso\obj\Debug\ex.4_Numero Extenso.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\C#\3935\3935\ex.4_Numero Extenso\obj\Debug\ex.4_Numero Extenso.pdb

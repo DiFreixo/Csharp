@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\01\Tarefa 1 - Área Rectângulo\bin\Debug\Tarefa 1 - Área Rectângulo.exe.config
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\01\Tarefa 1 - Área Rectângulo\bin\Debug\Tarefa 1 - Área Rectângulo.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\01\Tarefa 1 - Área Rectângulo\bin\Debug\Tarefa 1 - Área Rectângulo.pdb
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\01\Tarefa 1 - Área Rectângulo\obj\Debug\Tarefa 1 - Área Rectângulo.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\01\Tarefa 1 - Área Rectângulo\obj\Debug\Tarefa 1 - Área Rectângulo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\01\Tarefa 1 - Área Rectângulo\obj\Debug\Tarefa 1 - Área Rectângulo.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\01\Tarefa 1 - Área Rectângulo\obj\Debug\Tarefa 1 - Área Rectângulo.pdb

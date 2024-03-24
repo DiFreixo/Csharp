@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\02\Tarefa 5 - Contar Palavras\Tarefa 5 - Contar Palavras\bin\Debug\Tarefa 5 - Contar Palavras.exe.config
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\02\Tarefa 5 - Contar Palavras\Tarefa 5 - Contar Palavras\bin\Debug\Tarefa 5 - Contar Palavras.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\02\Tarefa 5 - Contar Palavras\Tarefa 5 - Contar Palavras\bin\Debug\Tarefa 5 - Contar Palavras.pdb
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\02\Tarefa 5 - Contar Palavras\Tarefa 5 - Contar Palavras\obj\Debug\Tarefa 5 - Contar Palavras.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\02\Tarefa 5 - Contar Palavras\Tarefa 5 - Contar Palavras\obj\Debug\Tarefa 5 - Contar Palavras.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\02\Tarefa 5 - Contar Palavras\Tarefa 5 - Contar Palavras\obj\Debug\Tarefa 5 - Contar Palavras.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\02\Tarefa 5 - Contar Palavras\Tarefa 5 - Contar Palavras\obj\Debug\Tarefa 5 - Contar Palavras.pdb

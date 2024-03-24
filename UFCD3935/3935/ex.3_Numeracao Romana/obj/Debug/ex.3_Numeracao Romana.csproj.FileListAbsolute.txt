@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\ex.3_Numeracao Romana\bin\Debug\ex.3_Numeracao Romana.exe.config
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\ex.3_Numeracao Romana\bin\Debug\ex.3_Numeracao Romana.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\ex.3_Numeracao Romana\bin\Debug\ex.3_Numeracao Romana.pdb
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\ex.3_Numeracao Romana\obj\Debug\ex.3_Numeracao Romana.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\ex.3_Numeracao Romana\obj\Debug\ex.3_Numeracao Romana.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\ex.3_Numeracao Romana\obj\Debug\ex.3_Numeracao Romana.exe
+C:\Users\ASUS\OneDrive - Instituto Politécnico do Cávado e do Ave\Desktop\4. C#\3935\3935\ex.3_Numeracao Romana\obj\Debug\ex.3_Numeracao Romana.pdb
